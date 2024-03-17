@@ -9,9 +9,9 @@ using namespace std;
  
 int main(){
     bismillah;
-    cout << ">>>100 FAKTA<<<";
+    cout << ">>>100 FAKTA TENTANG ADEVA<<<" << endl;
     for(int i = 0; i<100; i++){
-        cout << i+1 << ". Kimberlie orangnya sangat baik dan lucu :3" << endl;
+        cout << i+1 << ". Adeva orangnya sangat baik dan lucu :3" << endl;
     }
     return 0;
 }
